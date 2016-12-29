@@ -1,0 +1,4 @@
+#Wed Dec 14 00:34:33 BRST 2016
+base.0=/home/vagner/Desktop/myApp/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/vagner/Desktop/myApp/platforms/android/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

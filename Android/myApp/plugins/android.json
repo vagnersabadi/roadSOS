@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.apache.cordova.myApp"
+        }
+    }
+}

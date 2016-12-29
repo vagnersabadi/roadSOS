@@ -1,0 +1,19 @@
+CREATE TABLE Chamado (
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`latitude` VARCHAR(100) NULL , 
+`longitude` VARCHAR(100) NOT NULL ,
+`idUser` INT NOT NULL ,
+`idMec` INT NULL ,
+`Atendimento` BOOLEAN NULL ,
+CONSTRAINT `fk_idu`
+    FOREIGN KEY (idUser) REFERENCES LoginCliente(id)
+    ON DELETE CASCADE
+    ON UPDATE RESTRICT
+  ) ENGINE = InnoDB;
+
+CREATE TABLE LoginMecanico (
+`idMec` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`nome` VARCHAR(50) NOT NULL , 
+`senha` VARCHAR(50) NOT NULL
+  ) ENGINE = InnoDB;
+

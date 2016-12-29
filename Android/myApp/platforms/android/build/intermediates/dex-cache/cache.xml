@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb2ecf6fa7f7fb4f416efb04aaf66ec590abac89">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_e2f2369574fc655275f387611eed5b925b081c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_565fc05d4b1bde92c97f985609fc1855e90c10b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_99ae135686a779fc8ba13fa16819c6e86b9b0f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_483274cfa35fc8d2690dbfa007771ddaaa72b3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8c6cd9ebd7a6da74a734c283e3864d3936c932d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desenvolvimento/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_498d3c9583a25747d76a0f55674173784c6b9bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_eeafb30e641636b46065a1d7e7853725ebc22428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_0afda6571b216809aca291ef0e37a48b8e11ff06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8145e47ac340432ef2ae0fce901ba4394b732c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_84e7292329465dbf8599c61deefce8d0d677b232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1f2f32c0057c877f535e20547eef4c6dfbf921be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f27d4f8cbf960142048aa5955dab27932f88196c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/vagner/Desktop/myApp/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0c151ba8ed8f73ccb78ba2ead3d1185cecac766e.jar" />
+    </item>
+
+</items>
